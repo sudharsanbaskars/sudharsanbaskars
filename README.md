@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Data Science 
-- Motto-"I Learn Everyday"
+- 😄 Motto "I Learn Everyday"
 
 <!--
 **sudharsanbaskars/sudharsanbaskars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
