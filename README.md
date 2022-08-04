@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Data Science 
+- 🌱 I’m a Software Development Enthusiast
 - 😄 Motto "I Learn Everyday"
 
 <!--
